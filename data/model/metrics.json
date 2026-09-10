@@ -1,0 +1,17 @@
+{
+  "selected_model": "logistic_regression",
+  "results": [
+    {
+      "name": "logistic_regression",
+      "accuracy": 0.6251920122887865,
+      "log_loss": 0.64808136064353,
+      "n_test": 2604
+    },
+    {
+      "name": "gradient_boosting",
+      "accuracy": 0.6152073732718893,
+      "log_loss": 0.6527509997111992,
+      "n_test": 2604
+    }
+  ]
+}
